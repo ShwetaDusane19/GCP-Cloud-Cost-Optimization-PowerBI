@@ -1,0 +1,83 @@
+﻿Project_ID,Project_Name,Department,Environment
+proj-001,Project_proj-001,,Testing
+proj-002,Project_proj-002,IT Operations,Testing
+proj-003,Project_proj-003,IT Operations,Testing
+proj-004,Project_proj-004,IT Operations,Testing
+proj-005,Project_proj-005,E-Commerce,Testing
+proj-006,Project_proj-006,Marketing,Staging
+proj-007,Project_proj-007,Human Resources,dev
+proj-008,Project_proj-008,Sales,Production
+proj-009,Project_proj-009,Sales,Sandbox
+proj-010,Project_proj-010,FinTech,Production
+proj-011,Project_proj-011,IT Operations,Sandbox
+proj-012,Project_proj-012,Data Science,Sandbox
+proj-013,Project_proj-013,IT Operations,Testing
+proj-014,Project_proj-014,Security,dev
+proj-015,Project_proj-015,Data Science,Sandbox
+proj-016,Project_proj-016,E-Commerce,Production
+proj-017,Project_proj-017,FinTech,Production
+proj-018,Project_proj-018,Research & Development,Staging
+proj-019,Project_proj-019,,Production
+proj-020,Project_proj-020,FinTech,Production
+proj-021,Project_proj-021,Marketing,Sandbox
+proj-022,Project_proj-022,E-Commerce,Development
+proj-023,Project_proj-023,,Development
+proj-024,Project_proj-024,Legal,Development
+proj-025,Project_proj-025,FinTech,Testing
+proj-026,Project_proj-026,Legal,Testing
+proj-027,Project_proj-027,Data Science,Development
+proj-028,Project_proj-028,Security,Development
+proj-029,Project_proj-029,E-Commerce,dev
+proj-030,Project_proj-030,Marketing,PROD
+proj-031,Project_proj-031,,PROD
+proj-032,Project_proj-032,,Development
+proj-033,Project_proj-033,Security,Sandbox
+proj-034,Project_proj-034,FinTech,Production
+proj-035,Project_proj-035,Marketing,dev
+proj-036,Project_proj-036,Marketing,PROD
+proj-037,Project_proj-037,Data Science,Production
+proj-038,Project_proj-038,Research & Development,Sandbox
+proj-039,Project_proj-039,Human Resources,Testing
+proj-040,Project_proj-040,IT Operations,Testing
+proj-041,Project_proj-041,E-Commerce,Sandbox
+proj-042,Project_proj-042,E-Commerce,Testing
+proj-043,Project_proj-043,Security,Development
+proj-044,Project_proj-044,Research & Development,Staging
+proj-045,Project_proj-045,E-Commerce,Staging
+proj-046,Project_proj-046,Marketing,Sandbox
+proj-047,Project_proj-047,IT Operations,Production
+proj-048,Project_proj-048,E-Commerce,Sandbox
+proj-049,Project_proj-049,IT Operations,PROD
+proj-050,Project_proj-050,IT Operations,Testing
+proj-051,Project_proj-051,Data Science,Sandbox
+proj-052,Project_proj-052,Security,Sandbox
+proj-053,Project_proj-053,Sales,Production
+proj-054,Project_proj-054,Data Science,Development
+proj-055,Project_proj-055,Sales,PROD
+proj-056,Project_proj-056,Data Science,Testing
+proj-057,Project_proj-057,Marketing,Production
+proj-058,Project_proj-058,E-Commerce,Development
+proj-059,Project_proj-059,IT Operations,Development
+proj-060,Project_proj-060,Human Resources,Development
+proj-061,Project_proj-061,IT Operations,dev
+proj-062,Project_proj-062,Sales,Staging
+proj-063,Project_proj-063,Marketing,Staging
+proj-064,Project_proj-064,FinTech,Development
+proj-065,Project_proj-065,Sales,Testing
+proj-066,Project_proj-066,E-Commerce,Production
+proj-067,Project_proj-067,Marketing,Sandbox
+proj-068,Project_proj-068,Data Science,Testing
+proj-069,Project_proj-069,Human Resources,Sandbox
+proj-070,Project_proj-070,IT Operations,Production
+proj-071,Project_proj-071,FinTech,Production
+proj-072,Project_proj-072,Sales,Production
+proj-073,Project_proj-073,Marketing,Staging
+proj-074,Project_proj-074,E-Commerce,Testing
+proj-075,Project_proj-075,Legal,Staging
+proj-076,Project_proj-076,Security,Staging
+proj-077,Project_proj-077,Sales,Development
+proj-078,Project_proj-078,Security,Testing
+proj-079,Project_proj-079,IT Operations,Production
+proj-080,Project_proj-080,IT Operations,Production
+proj-001,Project_proj-001,,Testing
+proj-002,Project_proj-002,IT Operations,Testing

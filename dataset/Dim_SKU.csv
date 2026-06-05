@@ -1,0 +1,32 @@
+﻿SKU_ID,Service_Category,Description
+sku-100,Compute Engine,N2-Standard-4
+sku-101,Compute Engine,E2-Medium
+sku-102,Compute Engine,C3-HighCPU-8
+sku-103,Compute Engine,G2-Standard-4
+sku-104,Compute Engine,M1-Ultra-96
+sku-105,Compute Engine,T2D-Standard-16
+sku-106,Cloud Storage,Standard
+sku-107,Cloud Storage,Nearline
+sku-108,Cloud Storage,Coldline
+sku-109,Cloud Storage,Archive
+sku-110,Cloud Storage,Multi-Regional
+sku-111,BigQuery,Analysis
+sku-112,BigQuery,Storage
+sku-113,BigQuery,Streaming Insert
+sku-114,BigQuery,
+sku-115,Cloud SQL,MySQL-db-f1-micro
+sku-116,Cloud SQL,Postgres-db-n1-standard-2
+NA,Cloud SQL,SQLServer-Web
+sku-118,Vertex AI,Training-A100
+NA,Vertex AI,Inference-L4
+sku-120,Vertex AI,Notebooks
+sku-121,Vertex AI,AutoML-Vision
+sku-122,  BigQuery ,
+sku-123,  BigQuery ,Load Balancing
+sku-124,Networking,Inter-region Egress
+sku-125,  BigQuery ,Internet Egress
+sku-126,Cloud Run,CPU-Allocation
+sku-127,Cloud Run,Memory-Allocation
+sku-128,Cloud Run,Request-Count
+sku-129,Pub/Sub,Message-Storage
+sku-130,Pub/Sub,Topic-Throughput
